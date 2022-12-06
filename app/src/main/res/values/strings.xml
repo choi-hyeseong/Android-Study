@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="first">첫번째</string>
+    <string name="second">두번째</string>
+</resources>
